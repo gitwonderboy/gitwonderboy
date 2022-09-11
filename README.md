@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Alpyiago Premium E-Commerce PWA](https://alphyiago.web.app/)
 
-- 💬 Ask me about **HTML/HTML5, CSS/CSS3, JS, Vue, Vuetify, Bootstrap, PHP**
+- 💬 Ask me about **HTML/HTML5, CSS/CSS3, JS, Vue/Nuxt, Vuetify, Bootstrap, PHP**
 
 - 📫 How to reach me **techmanifestsa@gmail.com**
 
