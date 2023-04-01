@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitwonderboy&label=Profile%20views&color=0e75b6&style=flat" alt="gitwonderboy" /> </p>
 
-- 🌱 I’m currently working on [MY PORTFOLIO](https://https://techmanifest.co.za/)
+- 🌱 I’m currently working on [MY PORTFOLIO](https://techmanifest.co.za/)
      - Yarn
      - Vite
      - Vue
